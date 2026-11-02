@@ -52,7 +52,7 @@ This project addresses these challenges by designing a relational banking databa
 
 The Entity Relationship Diagram illustrates the database tables, primary keys, foreign keys, and relationships between banking entities.
 
-![Banking Transaction Management ER Diagram](ER_Diagram.png)
+![Banking Transaction Management ER Diagram](ER_Diagram.jpeg)
 
 ## Database Schema and Relationships
 
